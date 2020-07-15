@@ -1,1 +1,13 @@
 size(600,600);
+fill (2,225,247,100);
+ellipse (400,100, 100,100);
+fill (3,255,34,100);
+ellipse (330,100, 100,100);
+fill (255,0,0,100);
+ellipse (365,165, 100,100);
+textSize(18);
+text("funny", 385,100);
+textSize(12);
+text ("intelligent", 290,95);
+textSize(15);
+text ("caring", 350, 170);
